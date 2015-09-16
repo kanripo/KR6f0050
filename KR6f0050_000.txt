@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 度一切諸佛境界智嚴經
+#+DATE: 2015-08-30 20:01:59.564877
+#+PROPERTY: JUAN 0
